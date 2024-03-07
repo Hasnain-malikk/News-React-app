@@ -1,6 +1,6 @@
 #Preview
 <br>
-![Preview]([url_of_your_image](https://drive.google.com/file/d/1B8-lsh44f014ISuY2neNl-jwAEiTy-Ah/view?usp=sharing))
+![Preview](https://drive.google.com/file/d/1B8-lsh44f014ISuY2neNl-jwAEiTy-Ah/view?usp=sharing)
 <br>
 # Testing this React App
 <br>
