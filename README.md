@@ -1,7 +1,3 @@
-#Preview
-<br>
-![Preview]([https://drive.google.com/file/d/1B8-lsh44f014ISuY2neNl-jwAEiTy-Ah/view?usp=sharing](https://github.com/Hasnain-malikk/News-React-app/blob/master/Preview/Screenshot3.png))
-<br>
 # Testing this React App
 <br>
 * Run this React app on your machine live server from build folder that is provided in the repo. 
